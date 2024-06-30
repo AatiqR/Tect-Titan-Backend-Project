@@ -1,0 +1,4 @@
+pehle login bana liya hai 
+phir install 
+npm i mongoose passport passport-local  passport-local-mongoose express-session
+multer use karti hai pic upload kaarni ki liye 
